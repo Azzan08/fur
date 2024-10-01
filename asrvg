@@ -1,0 +1,24 @@
+<section style="background-image: url(images/bg2-01.png);"> 
+
+        <div class="top1">
+            <h1><Center>Chairs</Center></h1>
+        </div>
+
+    <div class="chair00">
+            <video autoplay loop muted plays-inline class="chair" >
+                <source src="images/chair1.mp4" type="video/mp4">
+            </video>
+
+            <video autoplay loop muted plays-inline class="chair" >
+                <source src="images/chair2.mp4" type="video/mp4">
+            </video>
+
+            <video autoplay loop muted plays-inline class="chair" >
+                <source src="images/chair3.mp4" type="video/mp4">
+            </video>
+        
+    </div>
+
+    </section>
+
+
